@@ -1,4 +1,4 @@
-//Global Header declarations 
+//Header File Declarations 
 #include<stdio.h>
 #include<conio.h>
 
